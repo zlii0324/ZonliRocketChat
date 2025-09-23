@@ -12,6 +12,8 @@
 
 ## 目录
 - [简介](#简介)
+- [客户端操作](#对于不同系统)
+- [浏览器操作](#在浏览器中)
 
 ## 简介
 本手册旨在帮助用户快速上手Rocket Chat
@@ -35,3 +37,11 @@
     | 微软 IE | 仅支持 IE 11 |
 *为了更好的体验，推荐将浏览器更新到最新。并且使用除上述以外浏览器可能导致访问被拒绝**
 
+## 对于不同系统
+[Windows](Andriod_Guide.md)
+[MacOS](MacOS_Guide.md)
+[iOS](iOS_Guide.md)
+[Windows](Windows_Guide.md)
+
+
+## 在浏览器中
